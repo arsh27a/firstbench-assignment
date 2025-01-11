@@ -1,6 +1,8 @@
 # React Project
 
 Welcome to the React Project! This project is a simple React application that you can use as a starting point for building your React-based applications.
+## Live Demo
+You can check out the live version of the assignment here: [Firstbench Assignment](https://firstbench-assignment.vercel.app/)
 
 ## Table of Contents
 
